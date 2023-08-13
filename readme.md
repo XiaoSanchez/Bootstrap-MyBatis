@@ -1,4 +1,4 @@
-# Handwritten-MyBatis
+# Bootstrap-MyBatis
 
 Handwritten MyBatis is a project that aims to provide a deeper understanding of the MyBatis framework by recreating its core functionality from scratch. MyBatis is a popular Java-based persistence framework that simplifies database access and manipulation. By implementing key features of MyBatis, such as session management, statement execution, and result mapping, this project aims to enhance the understanding of how ORM frameworks work under the hood.
 
